@@ -1,1 +1,1 @@
-This repo is uses to save my practical excersizes of Data Structure and Algorithm
+This repo is uses to save my practical excercises of Data Structure and Algorithm
